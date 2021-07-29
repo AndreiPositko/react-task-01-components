@@ -1,0 +1,14 @@
+@value white from './variables.module.css';
+@value mainText from './variables.module.css';
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+    min-height: 450px;
+    box-shadow: 0 0 10px rgba(34, 60, 80, 0.2);
+    border-radius: 10px;
+    background-color: white;
+    color: mainText;
+    overflow: hidden;
+}

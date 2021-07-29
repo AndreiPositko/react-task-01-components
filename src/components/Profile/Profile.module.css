@@ -1,5 +1,5 @@
-@value white from './variables.module.css';
-@value mainText from './variables.module.css';
+@value white from '../../style/base/variables.module.css';
+@value mainText from '../../style/base/variables.module.css';
 
 .profile {
     display: flex;

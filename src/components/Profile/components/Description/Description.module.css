@@ -1,6 +1,6 @@
-@value white from './variables.module.css';
-@value fontSizeMain from './variables.module.css';
-@value fontSizeSecond from './variables.module.css';
+@value white from '../../../../style/base/variables.module.css';
+@value fontSizeMain from '../../../../style/base/variables.module.css';
+@value fontSizeSecond from '../../../../style/base/variables.module.css';
 
 .description {
     padding: 20px 15px;

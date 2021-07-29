@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Description from './components/Description';
+import Description from './components/Description/index';
 import Statistic from './components/Statistic';
 
-import styles from '../../style/Profile.module.css';
+import styles from './Profile.module.css';
 
 function Profile({ user }) {
    return (

@@ -1,4 +1,4 @@
-@value backgroundColorSecond from './variables.module.css';
+@value backgroundColorSecond from '../../../../style/base/variables.module.css';
 
 .stats {
     background-color: backgroundColorSecond;
@@ -18,14 +18,4 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-.label {
-    margin-bottom: 8px;
-    font-size: 15px;
-}
-
-.quantity {
-    font-weight: bold;
-    color: rgba(51, 49, 49, 0.932);
 }

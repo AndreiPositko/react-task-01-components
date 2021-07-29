@@ -1,6 +1,6 @@
-@value mainColor from './variables.module.css';
-@value white from './variables.module.css';
-@value fontFamilyContent from './variables.module.css';
+@value mainColor from '../style/base/variables.module.css';
+@value white from '../style/base/variables.module.css';
+@value fontFamilyContent from '../style/base/variables.module.css';
 
 * {
     margin: 0;

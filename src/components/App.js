@@ -5,7 +5,7 @@ import Profile from './Profile/Profile';
 import user from '../user.json';
 import users from '../users.json';
 
-import styles from '../style/App.module.css';
+import styles from './App.module.css';
 
 function App() {
    return (

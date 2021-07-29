@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from '../../../style/Statistic.module.css';
+import styles from '../StatisticList/StatisticList.css';
 
 function StatisticList({ label, quantity }) {
    return (

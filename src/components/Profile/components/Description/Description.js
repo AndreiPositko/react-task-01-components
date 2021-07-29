@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import styles from '../../../style/Description.module.css';
+import styles from './Description.module.css';
 
 function Description({ avatar, name, tag, location }) {
    return (

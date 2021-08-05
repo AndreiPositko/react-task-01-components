@@ -3,7 +3,8 @@ import PropTypes from 'prop-types';
 
 import styles from './Description.module.css';
 
-function Description({ avatar, name, tag, location }) {
+function Description({ user }) {
+   const { avatar, name, tag, location } = user;
    return (
       <div className={styles.description}>
          <img src={avatar} alt={name} />

@@ -3,7 +3,7 @@ import React from 'react';
 import Profile from './Profile/Profile';
 
 import user from '../user.json';
-import users from '../users.json';
+// import users from '../users.json';
 
 import styles from './App.module.css';
 
